@@ -1,21 +1,14 @@
+//This program was developed by Ajay Karthikeyan C
+//A MIT, Anna University graduate 2020
 import java.awt.*;
 import java.applet.Applet;
 import javax.swing.*;
 import java.awt.event.*;
 import java.sql.*;
-//import java.lang.*;
+import java.lang.*;
 import java.util.*; //for random function
 import java.util.Date;
 
-/**
-* <h1>Internet Banking</h1>
-* The Bank program implements an JAVA applet for internet banking.
-* <p>
-*
-* @author  Venkat
-* @version 1.0
-* @since   2017-08-31
-*/
 
 
 public class Bank extends Applet
